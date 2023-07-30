@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Deliciao/static/css/main.7cf589dd.css",
-    "main.js": "/Deliciao/static/js/main.919f83cc.js",
+    "main.js": "/Deliciao/static/js/main.a373f281.js",
     "static/js/787.19a73a27.chunk.js": "/Deliciao/static/js/787.19a73a27.chunk.js",
     "static/media/intro2.jpg": "/Deliciao/static/media/intro2.ae0492806e854619559a.jpg",
     "static/media/max.jpg": "/Deliciao/static/media/max.8e47360fb8a28e41c441.jpg",
@@ -13,11 +13,11 @@
     "static/media/OrelegaOne-Regular.ttf": "/Deliciao/static/media/OrelegaOne-Regular.4ceedbbd136e6fb2937e.ttf",
     "index.html": "/Deliciao/index.html",
     "main.7cf589dd.css.map": "/Deliciao/static/css/main.7cf589dd.css.map",
-    "main.919f83cc.js.map": "/Deliciao/static/js/main.919f83cc.js.map",
+    "main.a373f281.js.map": "/Deliciao/static/js/main.a373f281.js.map",
     "787.19a73a27.chunk.js.map": "/Deliciao/static/js/787.19a73a27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cf589dd.css",
-    "static/js/main.919f83cc.js"
+    "static/js/main.a373f281.js"
   ]
 }
